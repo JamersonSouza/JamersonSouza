@@ -12,7 +12,7 @@ Sou entusiasta de tecnologia e me encontro em constante aprendizado quando o ass
 ## O que estou fazendo no momento?
 🎬  Atualmente estou gravando meu 2º Curso de Spring Boot com foco também no Spring Security.
 
-🧠 Tenho estudado **Ionic** e **SQL** durante uns tempos e venho dispertando bastante interesse em aprender e **trabalhar** com **C#**
+🧠 Tenho estudado **Ionic** e **SQL** durante uns tempos e venho despertando bastante interesse em aprender e **trabalhar** com **C#**
 
 ## Principais Skills ⚙️
 
