@@ -1,6 +1,6 @@
 
 ## Olá, me chamo Jamerson Souza ✌️ 
-Sou entusiasta de tecnologia e me encontro em constante aprendizado quando o assunto é 👨‍💻 **programação**! Além disto, também produzo conteúdo didático 👨‍🏫 no youtube para *compartilhar* meu conhecimento. 
+Sou desenvolvedor Java e compartilho meu conhecimento criando vídeos no Youtube 👨‍💻 meu objetivo é ajudar outros desenvolvedores a aprender e dominar tecnologias, aprimorando suas habilidades e capacidades. Tenho paixão pela programação e acredito que a tecnologia pode mudar o mundo de forma positiva.
 
 ## Educação 🏫
 
