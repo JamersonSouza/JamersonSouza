@@ -4,6 +4,8 @@ Sou desenvolvedor Java e compartilho meu conhecimento criando vídeos no Youtube
 
 ## Educação 🏫
 
+👨‍💻 Cursando Bacharelado em Ciências da Computação - Faculdade Descomplica
+
 👨‍🎓 Formado em Informática para Internet pelo IFPE (2017 - 2019)
 
 ▶️ Diversos Cursos Online Realizados dos quais destaco: **Java**, **Spring** e **Angular**
