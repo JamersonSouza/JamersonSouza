@@ -12,7 +12,7 @@ Sou desenvolvedor Java e compartilho meu conhecimento criando vídeos no Youtube
 
 
 ## O que estou fazendo no momento?
-🎬  Atualmente estou gravando meu 2º Curso de Spring Boot com foco também no Spring Security.
+🎬  Atualmente estou gravando conteúdos do universo Java, Spring e RabbitMQ.
 
 🧠 Tenho estudado **C#** e **AspNet 6** venho despertando bastante interesse em aprender ainda mais e quem sabe trabalhar com a tecnologia.
 
@@ -25,7 +25,7 @@ Sou desenvolvedor Java e compartilho meu conhecimento criando vídeos no Youtube
 ![CSS](https://img.shields.io/badge/CSS 3-006BC0?style=for-the-badge&logo=css3&logoColor=white)
  
 
-**Back-end:** ![JAVA](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&logo=&logoColor=white)
+**Back-end:** ![JAVA](https://img.shields.io/badge/Java-EC2025?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring Framework-67AA3B?style=for-the-badge&logo=Spring&logoColor=white)
 
 ## Onde você pode me encontrar 👀
