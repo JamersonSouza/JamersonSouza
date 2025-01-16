@@ -14,7 +14,7 @@ Sou desenvolvedor Java e compartilho meu conhecimento criando vídeos no Youtube
 ## O que estou fazendo no momento?
 🎬  Atualmente estou gravando conteúdos do universo Java, Spring e RabbitMQ.
 
-🧠 Tenho estudado **C#** e **AspNet 6** venho despertando bastante interesse em aprender ainda mais e quem sabe trabalhar com a tecnologia.
+🧠 Tenho iniciado o planejamento para um novo projeto que vai abranger não apenas a gravação do processo de criação do mesmo mas também desejo publicar na Google Play.
 
 ## Principais Skills ⚙️
 
